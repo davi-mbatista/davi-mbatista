@@ -12,7 +12,10 @@ I'm a web developer from Berlin that loves tooling and building UIs. I also love
 Well, "Start" is a template repo that aims to simplify starting new projects based on the "Webpack + framework" formula. It covers
 some of the basics of development and production building with an easy-to-follow and easy-to-change project structure. At the moment
 it supports Vanilla JS, React, Preact, Svelte, and Lit-html. (They all live separated branches in the same repo). [Here is a talk that
-I gave in Berlin about webpack](https://github.com/davi-mbatista/davi-mbatista/raw/master/misc/webpack-wants-to-be-your-friend.pdf). 
+I gave in Berlin about webpack](https://github.com/davi-mbatista/davi-mbatista/raw/master/misc/webpack-wants-to-be-your-friend.pdf).
+
+#### Svelte+Tailwind (also based on start template) - [Repository](https://github.com/davi-mbatista/svelte-tailwind)
+Another small template project exploring a setup using TailwindCSS and Svelte. Give it a try!
 
 
 ### Polytimer: [Live](https://polytimer.rocks) - [Repository](https://github.com/davi-mbatista/polytimer):

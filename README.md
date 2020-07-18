@@ -1,7 +1,6 @@
 ![Hey hi](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/c542aa963806c4be249b202c68eeaf76685643f9/images/heyhi.svg)
 
-I'm a web developer that loves tooling and building UIs. I'm also a crazy music nerd.
-Here are some things I'm working latelly:
+I'm a web developer from Berlin that loves tooling and building UIs. I also love music and sound design. Here are some things I've been working on lately:
 
 ### Start (template repo) - [Repository](https://github.com/davi-mbatista/start/):
 ![Start banner](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/master/images/start-banner.png)

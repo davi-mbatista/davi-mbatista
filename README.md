@@ -8,7 +8,7 @@ Here are some things I'm working latelly:
 
 > *Webpack is way too complicated*
 
-- Said developer #12312314 while sobbing uncontrollably
+...Said developer #12312314 while sobbing uncontrollably
 
 Well, "Start" is a template repo that aims to simplify starting new projects based on the "Webpack + framework" formula. It covers
 some of the basics of development and production building with an easy-to-follow and easy-to-change project structure. At the moment

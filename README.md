@@ -14,7 +14,7 @@ some of the basics of development and production building with an easy-to-follow
 it supports Vanilla JS, React, Preact, Svelte, and Lit-html. (They all live separated branches in the same repo). [Here is a talk that
 I gave in Berlin about webpack](https://github.com/davi-mbatista/davi-mbatista/raw/master/misc/webpack-wants-to-be-your-friend.pdf).
 
-#### Svelte+Tailwind (also based on start template) - [Repository](https://github.com/davi-mbatista/svelte-tailwind)
+#### Svelte+Tailwind (also based on the Start template) - [Repository](https://github.com/davi-mbatista/svelte-tailwind)
 Another small template project exploring a setup using TailwindCSS and Svelte. Give it a try!
 
 

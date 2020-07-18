@@ -1,4 +1,4 @@
-![Hey hi](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/94cfbf63773844a51b4efc15cbaf859f4f762da3/images/heyhi.svg)
+![Hey hi](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/c542aa963806c4be249b202c68eeaf76685643f9/images/heyhi.svg)
 
 I'm a web developer that loves tooling and building UIs. I'm also a crazy music nerd.
 Here are some things I'm working latelly:

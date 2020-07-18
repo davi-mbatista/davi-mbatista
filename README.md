@@ -6,7 +6,7 @@ Here are some things I'm working latelly:
 ### Start (template repo): [Repository](https://github.com/davi-mbatista/start/):
 ![Start banner](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/master/images/start-banner.png)
 
-> *Webpack is too complicated*
+> *Webpack is way too complicated*
 
 - Said developer #12312314 while sobbing uncontrollably
 

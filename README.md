@@ -3,7 +3,7 @@
 I'm a web developer that loves tooling and building UIs. I'm also a crazy music nerd.
 Here are some things I'm working latelly:
 
-### Start (template repo): [Repository](https://github.com/davi-mbatista/start/):
+### Start (template repo) - [Repository](https://github.com/davi-mbatista/start/):
 ![Start banner](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/master/images/start-banner.png)
 
 > *Webpack is way too complicated*

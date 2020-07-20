@@ -2,7 +2,7 @@
 
 I'm a web developer from Brazil 🇧🇷 (currently living in Berlin, Germany 🇩🇪 ) I love tooling and building user interfaces. I also love music and sound design. Frontend is my jam and I've worked on many different products and environments across the globe, from fintech to process management. You can follow me on [Twitter](https://twitter.com/davi_mbatista) to check what I like. But here are some things I've been working on lately:
 
-### Start (template repo) - [Repository](https://github.com/davi-mbatista/start/):
+### Start (template) - [Repository](https://github.com/davi-mbatista/start/):
 ![Start banner](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/master/images/start-banner.png)
 
 > *Webpack is way too complicated*

@@ -1,4 +1,4 @@
-![Hey hi](https://raw.githubusercontent.com/davi-mbatista/davi-mbatista/c542aa963806c4be249b202c68eeaf76685643f9/images/heyhi.svg)
+# Hey, hi! I'm Daví.
 
 I'm a web developer from Brazil 🇧🇷 (currently living in Berlin, Germany 🇩🇪 ) that loves tooling and building user interfaces. I also love music and sound design. Frontend is my jam and I've worked on many different products and environments across the globe, from fintech to process management. You can follow me on [Twitter](https://twitter.com/davi_mbatista) to check what I like. But here are some things I've been working on lately:
 
